@@ -1,0 +1,8 @@
+{
+  "name": "YOUASSISTANT - YouTube Creator Automation",
+  "description": "Automatización completa para creadores de YouTube: procesamiento instantáneo de transcripciones, títulos SEO con score CTR, descripciones, miniaturas IA, guiones, tendencias y calendario de publicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
